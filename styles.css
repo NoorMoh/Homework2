@@ -1,0 +1,29 @@
+#bgColor {
+    background-color: #046380;
+    text-align: center;
+
+}
+
+#bgColor2 {
+    background-color: #077b9f;
+    text-align: center;
+
+}
+
+#bgColor3 {
+    background-color: #4fafcc;
+    text-align: center;
+}
+
+#cen {
+    text-align: center;
+}
+
+body {
+    color: crimson;
+}
+
+#textDec {
+    color: azure;
+    text-decoration: none;
+}
